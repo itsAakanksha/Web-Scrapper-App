@@ -5386,3 +5386,42 @@ INFO:root:log my final result []
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "POST /review HTTP/1.1" 200 -
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 19:45:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 19:45:08] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 19:45:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 19:46:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 19:46:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 19:46:19] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 19:46:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 19:46:23] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 19:46:23] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 19:46:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 19:46:31] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 19:46:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:No Comment Heading
+INFO:root:cannot access local variable 'name' where it is not associated with a value
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 19:47:21] "POST /review HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'smartwatch', 'Name': 'Priyanshu Maurya', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': '( Posting This Rating On The Same Day I Received Delivery)Product Is Good & Worth The Price Build Material Is Plastic And It Is Light Weight Straps Are Also Light Weight & Feels Normal On Skin I Just Got The Delivery Today So Haven’t Used It Much To Post About It’s Features & Specs But I Liked The Overall Design & Interface Of The Watch, Looks & Feels Good In Wrist, As Of Now Activity Tracking Has Worked Fine & Felt Accurate, Display Is Also Bright And Clear, Here Are My Ratings On 1 Day ...'}, {'Product': 'smartwatch', 'Name': 'Sima Hazarika ', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'Watch is very nice. Nice design, activity tracking is good,light weight and Screen is superb. Bright and clear screen. Value for money. Overall good.'}, {'Product': 'smartwatch', 'Name': 'Dolan  Karmakar', 'Rating': '4', 'CommentHead': 'Worth the money', 'Comment': 'Good watch , stylish, but it does not get analog watch face. Brightness is awesome. Nice watch at great price. The watch is working smooth and it is very lightweight and strap quality is good . Must buy. Value for money.'}, {'Product': 'smartwatch', 'Name': 'Prasanna Kumar  K R', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'The watch has call disconnecction issue in firmware ends with 48. I bought 3 watch all the 3 had issue they replaced but 2 working fine that has latest firmware. Another Flipkart return money already. Good  for basic users. No analog dial. Battery 4 to 5 days. Watch and Bluetooth headphones can be used together . Call message notification available. Alarm works well. Sync is working well. Need to improve app features. If calendar notification avilble will be a better option. Opening package b...'}, {'Product': 'smartwatch', 'Name': 'Vishal Kumar Vishal Kumar', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'Beautiful smart watch loved it just awesome at is price \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\U0001f389'}, {'Product': 'smartwatch', 'Name': 'Gulshan Ara Begum Customer', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Very nice features with 14 sports modes and very easy to use does not lag while using superb just love it.....'}, {'Product': 'smartwatch', 'Name': 'Gunjan  Wasnik ', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'So far this is a very good smart watch in this price, it has everything useful, I liked it very much, the battery backup is very good, I recommend it to everyone.'}, {'Product': 'smartwatch', 'Name': 'Imamun Nisha', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'I bought this product and this is absolutely suitable and best in price . I loved it . I liked the packaging, watch design , charger which is magnetic , screen is neither so big nor very small . And about delivery, I loved the fast delivery service by only Flipkart . Thankyou Flipkart for this amazing product .'}, {'Product': 'smartwatch', 'Name': 'Archana Tiwari', 'Rating': '4', 'CommentHead': 'Value-for-money', 'Comment': 'Ok ok product worth of money loved it and yea I recommend to boat for more smoothness thank you have a nice day'}, {'Product': 'smartwatch', 'Name': 'Dinesh Yogesh', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Thank You For Giving The Amazing Watch. Watch is Worth For Rate.Battery Also Amazing and Peaceful Design.'}, {'Product': 'smartwatch', 'Name': 'Dinesh Yogesh', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Thank You For Giving The Amazing Watch. Watch is Worth For Rate.Battery Also Amazing and Peaceful Design.'}]
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 19:47:35] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 19:47:35] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2023 19:47:35] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
